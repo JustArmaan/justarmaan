@@ -29,21 +29,21 @@
   <div style="flex: 1; padding: 10px;">
     <h4>Frameworks & Libraries</h4>
     <p>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="React" width="40" height="40" /></a>
-      <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reactnative.svg" alt="React Native" width="40" height="40" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nextdotjs.svg" alt="Next.js" width="40" height="40" /></a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/express.svg" alt="Express" width="40" height="40" /></a>
+      <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="40" /></a>
+      <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" height="40" /></a>
+      <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" height="40" /></a>
+      <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" height="40" /></a>
     </p>
   </div>
 
   <div style="flex: 1; padding: 10px;">
     <h4>Tools</h4>
     <p>
-      <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="AWS" width="40" height="40" /></a>
-      <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg" alt="Figma" width="40" height="40" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" alt="Git" width="40" height="40" /></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="MongoDB" width="40" height="40" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" width="40" height="40" /></a>
+      <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="40" /></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" height="40" /></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" /></a>
+      <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40" /></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="40" /></a>
     </p>
   </div>
 </div>
@@ -52,18 +52,18 @@
   <div style="flex: 1; padding: 10px;">
     <h4>Languages</h4>
     <p>
-      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="C#" width="40" height="40" /></a>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML5" width="40" height="40" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" width="40" height="40" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="TypeScript" width="40" height="40" /></a>
+      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" height="40" /></a>
+      <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40" /></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="40" /></a>
     </p>
   </div>
 
   <div style="flex: 1; padding: 10px;">
     <h4>Databases</h4>
     <p>
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" /></a>
-      <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sqlite.svg" alt="SQLite" width="40" height="40" /></a>
+      <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" /></a>
+      <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" /></a>
     </p>
   </div>
 </div>
@@ -71,12 +71,7 @@
 ---
 
 <h3>📊 GitHub Stats:</h3>
-<div style="display: flex; justify-content: space-evenly;">
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justarmaan&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=justarmaan&" alt="GitHub Streak" />
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justarmaan&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justarmaan&" alt="GitHub Streak" />
+</p>
