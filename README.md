@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
     <ul>
-      <li>🔭 I’m currently working on <a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Bot for trolling and having fun.</a></li>
+      <li>🔭 I’m currently working on <a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Troll Bot</a><a href="https://relay.arspera.com/" target="_blank">Relay</a></li>
       <li>🌱 I’m currently learning <strong>React, React-Native, Expo, C#</strong></li>
       <li>📫 How to reach me: <strong>singharmaanbrar@gmail.com</strong></li>
       <li>⚡ Fun fact: <strong>I like trying new activities, and I love gaming.</strong></li>
