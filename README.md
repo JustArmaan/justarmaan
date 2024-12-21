@@ -4,7 +4,7 @@
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
     <ul>
-      <li>🔭 I’m currently working on <a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Troll Bot</a> <br><a href="https://relay.arspera.com/" target="_blank">Relay</a></li>
+      <li>🔭 I’m currently working on <a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Troll Bot</a></li>
       <li>🌱 I’m currently learning <strong>React, React-Native, Expo, C#</strong></li>
       <li>📫 How to reach me: <strong>singharmaanbrar@gmail.com</strong></li>
       <li>⚡ Fun fact: <strong>I like trying new activities, and I love gaming.</strong></li>
@@ -19,6 +19,17 @@
       </a>
     </p>
   </div>
+</div>
+
+---
+
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<div style="text-align: center; padding: 20px;">
+  <h3><a href="https://relay.arspera.com/" target="_blank">Relay</a></h3>
+  <p>
+    Relay is an app that helps parents organize safe and reliable rideshares with trusted parents in their community for their kids — saving time, money, and stress.
+  </p>
 </div>
 
 ---
