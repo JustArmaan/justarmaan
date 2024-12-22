@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Armaan</h1>
-<h3 align="center">A passionate full-stack developer who loves learning new things 🌲</h3>
+<h1 align="left">Hi 👋, I'm Armaan</h1>
+<h3 align="left">A passionate full-stack developer who loves learning new things 🌲</h3>
+
+---
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
@@ -23,9 +25,9 @@
 
 ---
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2 align="left">🚀 What I'm Working On</h2>
 
-<div style="text-align: center; padding: 20px;">
+<div style="text-align: left; padding: 20px;">
   <h3><a href="https://relay.arspera.com/" target="_blank">Relay</a></h3>
   <p>
     Relay is an app that helps parents organize safe and reliable rideshares with trusted parents in their community for their kids — saving time, money, and stress.
