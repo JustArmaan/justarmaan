@@ -42,7 +42,7 @@
   <h3><a href="https://relay.arspera.com/" target="_blank">Relay</a></h3>
   <p>
     A rideshare app for parents to organize safe and reliable rides with trusted members in their community.  
-    🛠 Built with **React Native**, **Expo**, **GraphQL** and **Firebase**.  
+    🛠 Built with <strong>React Native, Expo, GraphQL and Firebase</strong>.  
     🔗 <a href="https://relay.arspera.com/" target="_blank">Landing Page</a> | <a href="https://github.com/byrondray/relay" target="_blank">GitHub</a>
   </p>
 </div>
@@ -51,7 +51,7 @@
   <h3><a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Troll Bot</a></h3>
   <p>
     A fun Discord bot with trolling features and interactive commands for your server.  
-    🛠 Built with **Node.js**, **Discord.js**, and **JavaScript**.  
+    🛠 Built with <strong> Node.js, Discord.js, and JavaScript </strong>.  
     🔗 <a href="https://github.com/JustArmaan/trollbot" target="_blank">GitHub</a>
   </p>
 </div>
