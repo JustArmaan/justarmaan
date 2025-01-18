@@ -36,6 +36,28 @@
 
 ---
 
+<h2 align="left">✨ Featured Projects</h2>
+
+<div style="text-align: left; padding: 20px;">
+  <h3><a href="https://relay.arspera.com/" target="_blank">Relay</a></h3>
+  <p>
+    A rideshare app for parents to organize safe and reliable rides with trusted members in their community.  
+    🛠 Built with **React Native**, **Expo**, **GraphQL** and **Firebase**.  
+    🔗 <a href="https://relay.arspera.com/" target="_blank">Landing Page</a> | <a href="https://github.com/byrondray/relay" target="_blank">GitHub</a>
+  </p>
+</div>
+
+<div style="text-align: left; padding: 20px;">
+  <h3><a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Troll Bot</a></h3>
+  <p>
+    A fun Discord bot with trolling features and interactive commands for your server.  
+    🛠 Built with **Node.js**, **Discord.js**, and **JavaScript**.  
+    🔗 <a href="https://github.com/JustArmaan/trollbot" target="_blank">GitHub</a>
+  </p>
+</div>
+
+---
+
 <h3>🛠️ Languages & Tools:</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
