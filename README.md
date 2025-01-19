@@ -108,7 +108,6 @@
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justarmaan&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justarmaan&" alt="GitHub Streak" />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JustArmaan&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 
