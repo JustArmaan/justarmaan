@@ -21,6 +21,26 @@
            alt="LinkedIn" height="30"/>
     </a>
   </p>
+  
+  <h3>💼 Check Out My Portfolio:</h3>
+  <p>
+    <a href="https://armaansportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+      <button style="
+        background-color: #0A66C2; 
+        color: white; 
+        padding: 10px 20px; 
+        border: none; 
+        border-radius: 5px; 
+        cursor: pointer;
+        font-size: 16px;
+      ">
+        Visit Portfolio
+      </button>
+    </a>
+  </p>
+</div>
+
+  
    <p>
     <a href="https://armaansportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
       <button style="
