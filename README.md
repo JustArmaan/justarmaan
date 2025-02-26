@@ -21,10 +21,19 @@
            alt="LinkedIn" height="30"/>
     </a>
   </p>
-  <p>
-    Check out my portfolio: 
+   <p>
     <a href="https://armaansportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-      armaansportfolio.vercel.app
+      <button style="
+        background-color: #0A66C2; 
+        color: white; 
+        padding: 10px 20px; 
+        border: none; 
+        border-radius: 5px; 
+        cursor: pointer;
+        font-size: 16px;
+      ">
+        Portfolio
+      </button>
     </a>
   </p>
 </div>
