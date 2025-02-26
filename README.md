@@ -40,24 +40,6 @@
   </p>
 </div>
 
-  
-   <p>
-    <a href="https://armaansportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <button style="
-        background-color: #0A66C2; 
-        color: white; 
-        padding: 10px 20px; 
-        border: none; 
-        border-radius: 5px; 
-        cursor: pointer;
-        font-size: 16px;
-      ">
-        Portfolio
-      </button>
-    </a>
-  </p>
-</div>
-
 
 ---
 
