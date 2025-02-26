@@ -13,15 +13,22 @@
     </ul>
   </div>
 
-  <div style="flex: 1; padding: 10px;">
-    <h3>🌐 Connect with me:</h3>
-    <p align="left">
-      <a href="https://linkedin.com/in/justarmaan" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-      </a>
-    </p>
-  </div>
+<div style="flex: 1; padding: 10px;">
+  <h3>🌐 Connect with me:</h3>
+  <p align="left">
+    <a href="https://linkedin.com/in/justarmaan" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
+           alt="LinkedIn" height="30"/>
+    </a>
+  </p>
+  <p>
+    Check out my portfolio: 
+    <a href="https://armaansportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+      armaansportfolio.vercel.app
+    </a>
+  </p>
 </div>
+
 
 ---
 
