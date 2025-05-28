@@ -1,134 +1,137 @@
-<h1 align="left">Hi 👋, I'm Armaan</h1>
-<h3 align="left">A passionate full-stack developer who loves learning new things 🌲</h3>
+# Hi 👋, I'm Armaan
+
+### A passionate full-stack developer who loves learning new things 🌲
+
+## 🚀 About Me
+
+- 🔭 I'm currently working on **[Rezen Gaming](rezengaming.com)**
+- 🌱 I'm currently learning **React Native, Expo, C#, ASP.NET, and GraphQL**
+- 👯 I'm looking to collaborate on **innovative web and mobile applications**
+- 💬 Ask me about **React, React Native, JavaScript, TypeScript, and full-stack development**
+- 📫 How to reach me: **[singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)**
+- ⚡ Fun fact: **I like trying new activities, and I love gaming**
 
 ---
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px;">
-    <ul>
-      <li>🔭 I’m currently working on <a href="https://armaansportfolio.vercel.app/" target="_blank">My Portfolio</a></li>
-      <li>🌱 I’m currently learning <strong>React, React-Native, Expo, C#</strong></li>
-      <li>📫 How to reach me: <strong>singharmaanbrar@gmail.com</strong></li>
-      <li>⚡ Fun fact: <strong>I like trying new activities, and I love gaming.</strong></li>
-    </ul>
-  </div>
+## 🌐 Connect with Me
 
-<div style="flex: 1; padding: 10px;">
-  <h3>🌐 Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/justarmaan" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
-           alt="LinkedIn" height="30"/>
-    </a>
-  </p>
-  
-  <h3>💼 Check Out My Portfolio:</h3>
-  <p>
-    <a href="https://armaansportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
-      <button style="
-        background-color: #0A66C2; 
-        color: white; 
-        padding: 10px 20px; 
-        border: none; 
-        border-radius: 5px; 
-        cursor: pointer;
-        font-size: 16px;
-      ">
-        Visit Portfolio
-      </button>
-    </a>
-  </p>
-</div>
+- **LinkedIn:** [linkedin.com/in/justarmaan](https://linkedin.com/in/justarmaan)
+- **Portfolio:** [justarmaan.com](https://justarmaan.com)
+- **Email:** [singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)
 
 
 ---
 
-<h2 align="left">🚀 What I'm Working On</h2>
+## 🛠️ Tech Stack
 
-<div style="text-align: left; padding: 20px;">
-  <h3><a href="https://relay.arspera.com/" target="_blank">Relay</a></h3>
-  <p>
-    Relay is an app that helps parents organize safe and reliable rideshares with trusted parents in their community for their kids — saving time, money, and stress.
-  </p>
-</div>
-
----
-
-<h2 align="left">✨ Featured Projects</h2>
-
-<div style="text-align: left; padding: 20px;">
-  <h3><a href="https://relay.arspera.com/" target="_blank">Relay</a></h3>
-  <p>
-    A rideshare app for parents to organize safe and reliable rides with trusted members in their community.<br/>  
-    🛠 Built with <strong>React Native, Expo, GraphQL and Firebase</strong>.<br/> 
-    🔗 <a href="https://relay.arspera.com/" target="_blank">Landing Page</a> | <a href="https://github.com/byrondray/relay" target="_blank">GitHub</a>
-  </p>
-</div>
-
-<div style="text-align: left; padding: 20px;">
-  <h3><a href="https://github.com/JustArmaan/trollbot" target="_blank">Discord Troll Bot</a></h3>
-  <p>
-    A fun Discord bot with trolling features and interactive commands for your server.<br/>
-    🛠 Built with <strong> Node.js, Discord.js, and JavaScript </strong>.<br/>
-    🔗 <a href="https://github.com/JustArmaan/trollbot" target="_blank">GitHub</a>
-  </p>
-</div>
-
----
-
-<h3>🛠️ Languages & Tools:</h3>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-  <div style="flex: 1; padding: 10px;">
-    <h4>Frameworks & Libraries</h4>
-    <p>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="40" /></a>
-      <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" height="40" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" height="40" /></a>
-      <a href="https://expressjs.com" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" alt="Express" height="40" /></a>
-    </p>
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-    <h4>Tools</h4>
-    <p>
-      <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="40" /></a>
-      <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" height="40" /></a>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" /></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40" /></a>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="40" /></a>
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-evenly;">
-  <div style="flex: 1; padding: 10px;">
-    <h4>Languages</h4>
-    <p>
-      <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" height="40" /></a>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="40" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="40" /></a>
-    </p>
-  </div>
-
-  <div style="flex: 1; padding: 10px;">
-    <h4>Databases</h4>
-    <p>
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" /></a>
-      <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="40" /></a>
-    </p>
-  </div>
-</div>
-
----
-
-<h3>📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justarmaan&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JustArmaan&border_radius=5" alt="GitHub Streak" /></a>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
---- 
+### ⚛️ Frontend Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="htmx" />
+</p>
 
-💡 Have an idea or project? Let’s connect! Reach me at **[singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)**.
+### 🔧 Backend Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+### 🗄️ Databases & ORM
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### 🔌 APIs & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid" />
+  <img src="https://img.shields.io/badge/Kinde-6C47FF?style=for-the-badge&logo=kinde&logoColor=white" alt="Kinde" />
+  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 [Relay](https://relay.arspera.com/)
+> A rideshare app for parents to organize safe and reliable rides with trusted members in their community.
+
+**Tech Stack:** React Native, Expo, GraphQL, Firebase, TypeScript
+🔗 **Links:** [Landing Page](https://relay.arspera.com/) | [GitHub](https://github.com/byrondray/relay)
+
+**Key Features:**
+- 🛡️ Safe community-based ridesharing for kids
+- 📱 Cross-platform mobile application
+- 🔐 Secure authentication and user verification
+- 📍 Real-time location tracking and notifications
+
+---
+
+### 🤖 [Discord Troll Bot](https://github.com/JustArmaan/trollbot)
+> A fun Discord bot with trolling features and interactive commands for your server.
+
+**Tech Stack:** Node.js, Discord.js, JavaScript
+🔗 **Links:** [GitHub Repository](https://github.com/JustArmaan/trollbot)
+
+**Key Features:**
+- 🎮 Interactive gaming commands
+- 🎭 Fun trolling features for server entertainment
+- ⚡ Fast response times and reliable uptime
+- 🔧 Easy setup and configuration
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justarmaan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=JustArmaan&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on innovative projects and connect with fellow developers. Feel free to reach out!
+
+<div align="center">
+
+  **💌 Email:** [singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)
+  **💼 LinkedIn:** [linkedin.com/in/justarmaan](https://linkedin.com/in/justarmaan)
+  **🌐 Portfolio:** [justarmaan.com](https://justarmaan.com)
+
+</div>
