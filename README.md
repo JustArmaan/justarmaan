@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Rezen Gaming](rezengaming.com)**
+- 🔭 I'm currently working on **[Rezen Gaming](https://rezengaming.com)**
 - 🌱 I'm currently learning **React Native, Expo, C#, ASP.NET, and GraphQL**
 - 👯 I'm looking to collaborate on **innovative web and mobile applications**
 - 💬 Ask me about **React, React Native, JavaScript, TypeScript, and full-stack development**
