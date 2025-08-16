@@ -121,18 +121,6 @@
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justarmaan&layout=compact&langs_count=8&theme=tokyonight"/>
   <img src="https://streak-stats.demolab.com?user=JustArmaan&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
 </div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 ---
 
 ## 📫 Let's Connect!
@@ -146,3 +134,15 @@ I'm always excited to collaborate on innovative projects and connect with fellow
   **🌐 Portfolio:** [justarmaan.com](https://justarmaan.com)
 
 </div>
+---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
