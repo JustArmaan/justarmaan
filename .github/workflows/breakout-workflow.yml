@@ -20,7 +20,7 @@ jobs:
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
-
+          github_token: ${{ secrets.BREAKOUT_TOKEN }}
       - name: Move generated SVGs
         run: |
           mkdir -p images

@@ -122,6 +122,17 @@
   <img src="https://streak-stats.demolab.com?user=JustArmaan&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
 </div>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 ---
 
 ## 📫 Let's Connect!
