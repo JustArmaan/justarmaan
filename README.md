@@ -1,24 +1,31 @@
 # Hi 👋, I'm Armaan
 
-### A passionate full-stack developer who loves learning new things 🌲
+### A passionate full-stack developer building impactful web and mobile applications 🚀
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Rezen Gaming](https://rezengaming.com)**
+- 🔭 I'm currently building **[Rezen Gaming](https://rezengaming.com)** - a competitive esports wagering platform
 - 🌱 I'm currently learning **React Native, Expo, C#, ASP.NET, and GraphQL**
 - 👯 I'm looking to collaborate on **innovative web and mobile applications**
-- 💬 Ask me about **React, React Native, JavaScript, TypeScript, and full-stack development**
+- 💬 Ask me about **React, Next.js, TypeScript, and full-stack development**
 - 📫 How to reach me: **[singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)**
-- ⚡ Fun fact: **I like trying new activities, and I love gaming**
+- ⚡ Fun fact: **I love trying new activities and gaming competitively**
 
 ---
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/justarmaan](https://linkedin.com/in/justarmaan)
-- **Portfolio:** [justarmaan.com](https://justarmaan.com)
-- **Email:** [singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)
-
+<p align="left">
+  <a href="https://linkedin.com/in/justarmaan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://justarmaan.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:singharmaanbrar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -41,7 +48,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/htmx-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="htmx" />
 </p>
 
 ### 🔧 Backend Technologies
@@ -49,17 +55,17 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 ### 🗄️ Databases & ORM
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" />
 </p>
@@ -68,18 +74,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-### 🔌 APIs & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid" />
-  <img src="https://img.shields.io/badge/Kinde-6C47FF?style=for-the-badge&logo=kinde&logoColor=white" alt="Kinde" />
-  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
@@ -87,29 +83,57 @@
 
 ## 🚀 Featured Projects
 
+### 🎮 [Rezen Gaming](https://rezengaming.com)
+> A competitive esports wagering platform where players compete in skill-based challenges and earn real rewards.
+
+**Tech Stack:** Next.js, TypeScript, Drizzle ORM, AWS Lambda, PostgreSQL  
+🔗 **Links:** [Live Site](https://rezengaming.com)
+
+**Key Features:**
+- 💰 Real-money wagering system with secure wallet transactions
+- 🏆 Match creation and team management systems
+- 🎥 Twitch, Xbox, and Steam API integrations for live streaming
+- 🛡️ Built with scalability and security in mind
+
+---
+
 ### 🚗 [Relay](https://relay.arspera.com/)
 > A rideshare app for parents to organize safe and reliable rides with trusted members in their community.
 
-**Tech Stack:** React Native, Expo, GraphQL, Firebase, TypeScript
+**Tech Stack:** React Native, Expo, GraphQL, Firebase, TypeScript  
 🔗 **Links:** [Landing Page](https://relay.arspera.com/) | [GitHub](https://github.com/byrondray/relay)
 
 **Key Features:**
 - 🛡️ Safe community-based ridesharing for kids
+- 📍 Real-time GPS tracking and PIN verification
+- 🤖 AI-powered ride notifications
 - 📱 Cross-platform mobile application
-- 🔐 Secure authentication and user verification
-- 📍 Real-time location tracking and notifications
+
+---
+
+### 🧠 [West Coast Healthy Memory Society](https://wchealthymemory.com/en/)
+> A web platform helping staff generate AI-powered cognitive training activities for seniors with Alzheimer's.
+
+**Tech Stack:** Next.js, TypeScript, MySQL, Drizzle ORM, OpenAI API  
+🔗 **Links:** [Live Site](https://wchealthymemory.com/en/)
+
+**Key Features:**
+- 🤖 AI-powered personalized content generation
+- ♿ Senior-friendly accessible UI design
+- 📚 Cognitive training activity library
+- 👥 Built for nonprofit community impact
 
 ---
 
 ### 🤖 [Discord Troll Bot](https://github.com/JustArmaan/trollbot)
 > A fun Discord bot with trolling features and interactive commands for your server.
 
-**Tech Stack:** Node.js, Discord.js, JavaScript
+**Tech Stack:** Node.js, Discord.js, JavaScript  
 🔗 **Links:** [GitHub Repository](https://github.com/JustArmaan/trollbot)
 
 **Key Features:**
 - 🎮 Interactive gaming commands
-- 🎭 Fun trolling features for server entertainment
+- 🎭 Fun server entertainment features
 - ⚡ Fast response times and reliable uptime
 - 🔧 Easy setup and configuration
 
@@ -130,8 +154,8 @@ I'm always excited to collaborate on innovative projects and connect with fellow
 
 <div align="center">
 
-  **💌 Email:** [singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)
-  **💼 LinkedIn:** [linkedin.com/in/justarmaan](https://linkedin.com/in/justarmaan)
+  **💌 Email:** [singharmaanbrar@gmail.com](mailto:singharmaanbrar@gmail.com)  
+  **💼 LinkedIn:** [linkedin.com/in/justarmaan](https://linkedin.com/in/justarmaan)  
   **🌐 Portfolio:** [justarmaan.com](https://justarmaan.com)
 
 </div>
