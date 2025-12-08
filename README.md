@@ -142,7 +142,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justarmaan&layout=compact&langs_count=8&theme=tokyonight"/>
+  <!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justarmaan&layout=compact&langs_count=8&theme=tokyonight"/> -->
   <img src="https://streak-stats.demolab.com?user=JustArmaan&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
 </div>
 
